@@ -51,7 +51,7 @@
 - name: 'github_actions'
   description: "Pull requests that update GitHub Actions code"
   color: '#000000'
-  aliases: []
+  aliases: ['github actions']
 
 - name: 'good first issue'
   description: "Good for newcomers"
