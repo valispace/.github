@@ -4,7 +4,7 @@
   aliases: []
 
 - name: 'dependencies'
-  description: "Pull requests that updates a dependencies file"
+  description: "Pull requests that update a dependencies file"
   color: '#1d76db'
   aliases: []
 
@@ -14,7 +14,7 @@
   aliases: []
 
 - name: 'docker'
-  description: "Pull requests that updates docker code"
+  description: "Pull requests that update docker code"
   color: '#5df39d'
   aliases: []
 
@@ -44,14 +44,14 @@
   aliases: []
 
 - name: 'fix'
-  description: "Pull requests that fixes a bug"
+  description: "Pull requests that fix a bug"
   color: '#0e8a16'
   aliases: ['bugfix']
 
-- name: 'github actions'
-  description: "Pull requests that updates github actions code"
+- name: 'github_actions'
+  description: "Pull requests that update GitHub Actions code"
   color: '#000000'
-  aliases: ['github_actions']
+  aliases: []
 
 - name: 'good first issue'
   description: "Good for newcomers"
@@ -74,7 +74,7 @@
   aliases: []
 
 - name: 'python'
-  description: "Pull requests that updates python code"
+  description: "Pull requests that update python code"
   color: '#6439db'
   aliases: []
 
