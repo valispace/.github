@@ -1,0 +1,5 @@
+blank_issues_enabled: false  # Use only the Valispace Support portal
+contact_links:
+  - name: Valispace Support
+    url: https://valispace.atlassian.net/servicedesk/customer/portal/4
+    about: Having trouble with features not working as expected? Do you have some interesting idea or improvement for a feature?
