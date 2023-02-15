@@ -1,0 +1,114 @@
+# Default labels for repositories in our organization
+# For more details see:
+#     - https://valispace.atlassian.net/wiki/spaces/DEVOPS/pages/2016608257/02+-+Create+a+new+repository+label
+#     - https://docs.github.com/en/organizations/managing-organization-settings/managing-default-labels-for-repositories-in-your-organization
+
+- name: 'bug'
+  description: "Something isn't working"
+  color: '#b60205'
+  aliases: []
+
+- name: 'dependencies'
+  description: "Pull requests that update a dependencies file"
+  color: '#1d76db'
+  aliases: []
+
+- name: 'deployable'
+  description: " Pull requests that create a deployable"
+  color: '#97f282'
+  aliases: []
+
+- name: 'docker'
+  description: "Pull requests that update docker code"
+  color: '#5df39d'
+  aliases: []
+
+- name: 'documentation'
+  description: "Improvements or additions to documentation"
+  color: '#0075ca'
+  aliases: []
+
+- name: 'dotnet'
+  description: "Pull requests that update .net code"
+  color: '#7121c6'
+  aliases: []
+
+- name: 'duplicate'
+  description: "This issue or pull request already exists"
+  color: '#cfd3d7'
+  aliases: []
+
+- name: 'enhancement'
+  description: "Improvements or additions to features"
+  color: '#a2eeef'
+  aliases: []
+
+- name: 'feature'
+  description: "Feature or request"
+  color: '#fcd914'
+  aliases: []
+
+- name: 'fix'
+  description: "Pull requests that fix a bug"
+  color: '#0e8a16'
+  aliases: ['bugfix']
+
+- name: 'github-actions'
+  description: "Pull requests that update GitHub Actions code"
+  color: '#000000'
+  aliases: ['github_actions']
+
+- name: 'good first issue'
+  description: "Good for newcomers"
+  color: '#7057ff'
+  aliases: []
+
+- name: 'help wanted'
+  description: "Extra attention is needed"
+  color: '#008672'
+  aliases: []
+
+- name: 'invalid'
+  description: "This doesn't seem right"
+  color: '#e4e669'
+  aliases: []
+
+- name: 'javascript'
+  description: "Pull requests that update javascript code"
+  color: '#168700'
+  aliases: []
+
+- name: 'python'
+  description: "Pull requests that update python code"
+  color: '#6439db'
+  aliases: []
+
+- name: 'question'
+  description: "Further information is requested"
+  color: '#d876e3'
+  aliases: []
+
+- name: 'stale'
+  description: "Pull requests that are stale"
+  color: '#213b60'
+  aliases: []
+
+- name: 'stale-exempt'
+  description: "Pull requests exempt from stale"
+  color: '#cc601b'
+  aliases: []
+
+- name: 'suspended'
+  description: "This is suspended"
+  color: '#b9e8ea'
+  aliases: []
+
+- name: 'UI/UX'
+  description: "This is related to the UI/UX"
+  color: '#55B632'
+  aliases: ['UI/UX Improvement']
+
+- name: 'wontfix'
+  description: "This will not be worked on"
+  color: '#ffffff'
+  aliases: []
